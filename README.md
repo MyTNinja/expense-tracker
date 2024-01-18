@@ -1,6 +1,8 @@
 #expense-tracker
 
 A new Flutter project to track expenses, using firebase for login and registration.
+test email id: shourya@mail.com
+password: qwerty
 
 ## Getting Started
 
