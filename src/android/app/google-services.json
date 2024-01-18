@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "621571332009",
+    "firebase_url": "https://expense-management-app-d7959-default-rtdb.firebaseio.com",
+    "project_id": "expense-management-app-d7959",
+    "storage_bucket": "expense-management-app-d7959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621571332009:android:5606bf456eded2641856b8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFiD2va4inPxSn_NPAikT1NpasLwjlLlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
